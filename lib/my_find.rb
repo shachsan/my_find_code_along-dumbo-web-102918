@@ -6,9 +6,8 @@ def my_find(collection)
     result = yield(ele)
     if result
       return result
-    else
-      return nil
     end
   end
-
+  return nil
 end
+
