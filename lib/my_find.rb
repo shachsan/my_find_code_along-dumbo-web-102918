@@ -8,7 +8,7 @@ def my_find(collection)
       return result
     else
       return nill
-    end 
+    end
   end
 
 end
