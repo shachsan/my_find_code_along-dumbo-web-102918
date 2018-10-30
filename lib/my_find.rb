@@ -10,5 +10,5 @@ def my_find(collection)
       return nill
     end 
   end
-  result
+
 end
