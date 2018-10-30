@@ -7,7 +7,7 @@ def my_find(collection)
     if result
       return result
     else
-      return nill
+      return nil
     end
   end
 
